@@ -2,11 +2,7 @@
 Application of TLSTM from Yu et. al to the Lorenz 96'/63 model for creating Surrogate models for Data Assimilation
 
 ## To create the Model
-1. Load the TLSTM_Lorenz_create.ipynb into Google Colab
-2. Run the file
-
-## To run the Model and generate graphs
-1. Load the TLSTM_Lorenz_generate.ipynb into Google Colab
+1. Load the TLSTM_Lorenz_DA.ipynb into Google Colab
 2. Run the file
 
 Based on the work seen in:
