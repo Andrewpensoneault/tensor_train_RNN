@@ -5,7 +5,7 @@ Application of TLSTM from Yu et. al to the Lorenz 96'/63 model for creating Surr
 1. Load the TLSTM_Lorenz_DA.ipynb into Google Colab
 2. Run the file
 
-Based on the work seen in:
+Based on the work forked from this <a href =https://github.com/yuqirose/tensor_train_RNN> repository </a> and the paper:
 ```
 @article{yu2017long,
   title={Long-term forecasting using tensor-train RNNs},
